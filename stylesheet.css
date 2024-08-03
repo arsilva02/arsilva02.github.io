@@ -16,3 +16,7 @@ header{
   color: darkorange;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#intro{
+  border: 4px darkblue double;
+}
