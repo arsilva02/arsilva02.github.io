@@ -3,19 +3,19 @@ body {
     font-size: 16px;
   }
 
-.a:link {
+a:link {
     color: blue;
   }
 
-.a:hover {
+a:hover {
     color: teal;
   }
 
-.a:visited{
+a:visited{
     color:orange
   }
 
-.header{
+header{
   font-size: large;
   color: orange;
   font-family: Georgia, 'Times New Roman', Times, serif;
