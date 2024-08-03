@@ -10,3 +10,7 @@ body {
   .a:hover {
     color: teal;
   }
+
+  .a:visited{
+    color:orange
+  }
